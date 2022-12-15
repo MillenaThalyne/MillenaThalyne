@@ -7,8 +7,7 @@
  
 
 ![octocat-1671111498442](https://user-images.githubusercontent.com/72171977/207873213-1027e0e7-8939-473f-aed4-6744d33547b2.png)
-## Technologies 
-
+## Technologies 🦋
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="100" height="100"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="100" height="100"/>
@@ -25,10 +24,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="100" height="100"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="100" height="100" />
 
-## Contacts 
+## Contacts 🪐
 
  <div>
 <a href = "mailto:contato@millenathalyne"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/millenathalyne" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>                   
 
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
