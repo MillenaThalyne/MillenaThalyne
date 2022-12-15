@@ -2,7 +2,7 @@
 ## My name is Millena Thalyne, my nickname is Mil, but you can call me just Millena!
 
 - 🌸 I'm graduating on Computer Science bachelor from Brazil, a Data Scientist aspiring and pretende to become it!
-- 🖥 I'm learning Python programs, Machine Learning algorithms, how to work on Cloud and statistics concepts, such as BI. 
+- 🖥 I'm learning Python programs, Machine Learning algorithms, how to work on Cloud, statistics and Database concepts, such as BI. 
 - 🌻 I'm a current mentee on KaggleX BIPOC Program and I'm looking for professional experience in Data Science area.
 ### 🚀 Take a look on my projects as you wish and make a comment, It'll help me a lot!! 
  
