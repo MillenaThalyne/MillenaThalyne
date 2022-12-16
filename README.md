@@ -1,5 +1,5 @@
 # Hi there! Welcome to my GitHub profile 🌷
-## My name is Millena Thalyne, my nickname is Mil, but you can call me just Millena! <img src="https://media.tenor.com/-f6Vna8VsdEAAAAi/happy-cat.gif" width="70" height="70"/>
+## My name is Millena Thalyne, but you can call me just Millena! <img src="https://media.tenor.com/-f6Vna8VsdEAAAAi/happy-cat.gif" width="70" height="70"/>
 
 - 🌸 I'm graduating on Computer Science bachelor from Brazil, a Data Scientist aspiring and pretende to become it!
 - 🖥 I'm learning Python programs, Machine Learning algorithms, how to work on Cloud, statistics and Database concepts, such as BI. 
