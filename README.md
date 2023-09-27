@@ -3,7 +3,7 @@
 
 - 🌸 I'm graduating on Computer Science bachelor from Brazil and a Data Scientist!
 - 🖥 I'm learning Python programs, Machine Learning algorithms, how to work on Cloud, statistics and Database concepts, such as BI. 
-- 🌻 I'm a mentee on KaggleX BIPOC Program (2022) and I'm data scientist intern, looking for professional experience in the area.
+- 🌻 I'm a mentee on KaggleX BIPOC Program (2022) and I'm data scientist junior, looking for professional experience in the area.
 
 
 ### 🚀 Take a look on my projects as you wish and make a comment, It'll help me a lot!! <img src="https://media.tenor.com/IRwu0K11SigAAAAj/dance.gif" width="70" height="70"/>
