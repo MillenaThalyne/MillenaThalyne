@@ -1,7 +1,7 @@
 # Hi there! Welcome to my GitHub profile 🌷
 ## My name is Millena Thalyne, but you can call me just Millena! <img src="https://media.tenor.com/-f6Vna8VsdEAAAAi/happy-cat.gif" width="70" height="70"/>
 
-- 🌸 I'm graduating on Computer Science bachelor from Brazil and a Data Scientist!
+- 🌸 I'm a Computer Science bachelor from Brazil and a Data Scientist!
 - 🖥 I'm learning Python programs, Machine Learning algorithms, how to work on Cloud, statistics and Database concepts, such as BI. 
 - 🌻 I'm a mentee on KaggleX BIPOC Program (2022) and I'm data scientist junior, looking for professional experience in the area.
 
