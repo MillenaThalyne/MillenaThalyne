@@ -1,7 +1,7 @@
 # Hi there! Welcome to my GitHub profile 🌷
 ## My name is Millena Thalyne, but you can call me just Millena! <img src="https://media.tenor.com/-f6Vna8VsdEAAAAi/happy-cat.gif" width="70" height="70"/>
 
-- 🌸 I'm a Computer Science bachelor from Alagoas, Brazil and a Data Scientist/Analyst!
+- 🌸 I'm a Computer Science bachelor from Alagoas, Brazil and a Data Scientist!
 - 🖥 I'm an expert in Python, R and Java program languages, Machine Learning algorithms, how to work on Cloud, statistics and Database concepts, such as BI.
 - 💼 You can see all my professional experiences, more about me and some interesting posts on my LinkedIn profile (link below).
 
